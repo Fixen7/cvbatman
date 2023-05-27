@@ -1,0 +1,23 @@
+.ImagenBatman {
+    background-color: #E6E6E6;
+    text-align: center;
+    padding-top: 10px;
+    letter-spacing: 10px;
+}
+* {
+    box-sizing: border-box;
+}
+h1, h2 {
+    background-color: #C4C4C4;
+    font-weight: bold;
+    text-align: center; 
+    font-family:'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    color: #005677;
+    
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 700;
+
+}
