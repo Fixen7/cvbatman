@@ -29,4 +29,19 @@ h1 {
 .Lista1 {
     font-size: 15px;
     font-style: italic;
-    }
+}
+
+.piedp {
+    background-color:  #005677;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin: 10px;
+    padding-top: 3px;
+    box-sizing: border-box;
+    ;
+
+}   
+.separador1 {
+    margin: 150px;
+}
